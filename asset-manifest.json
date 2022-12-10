@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/menu-and-tabs-react/static/css/main.26e112f5.chunk.css",
+    "main.js": "/menu-and-tabs-react/static/js/main.35bfb0a7.chunk.js",
+    "main.js.map": "/menu-and-tabs-react/static/js/main.35bfb0a7.chunk.js.map",
+    "runtime-main.js": "/menu-and-tabs-react/static/js/runtime-main.85d40b9c.js",
+    "runtime-main.js.map": "/menu-and-tabs-react/static/js/runtime-main.85d40b9c.js.map",
+    "static/js/2.66b87b03.chunk.js": "/menu-and-tabs-react/static/js/2.66b87b03.chunk.js",
+    "static/js/2.66b87b03.chunk.js.map": "/menu-and-tabs-react/static/js/2.66b87b03.chunk.js.map",
+    "index.html": "/menu-and-tabs-react/index.html",
+    "precache-manifest.5d587f0628c98de66ee022233206aa6c.js": "/menu-and-tabs-react/precache-manifest.5d587f0628c98de66ee022233206aa6c.js",
+    "service-worker.js": "/menu-and-tabs-react/service-worker.js",
+    "static/css/main.26e112f5.chunk.css.map": "/menu-and-tabs-react/static/css/main.26e112f5.chunk.css.map",
+    "static/js/2.66b87b03.chunk.js.LICENSE.txt": "/menu-and-tabs-react/static/js/2.66b87b03.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85d40b9c.js",
+    "static/js/2.66b87b03.chunk.js",
+    "static/css/main.26e112f5.chunk.css",
+    "static/js/main.35bfb0a7.chunk.js"
+  ]
+}
